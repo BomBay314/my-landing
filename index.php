@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="hi">
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<title>सस्ते में Libidex खरीदें। कीमतें, समीक्षाएं। अब Libidex का ऑर्डर करें!</title>
+	<link href="css/app.css" rel="stylesheet">
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+</head>
+<body class="dark-blue body-white-back is-desktop ev-date">
+	<div class="content-wrapper">
+		<nav class="navbar">
+			<div class="navbar-inner">
+				<button class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+				<a class="navbar-title"><div class="navbar-title__bg"></div><span class="navbar-title__hashtag lt1">समाचार</span></a>
+				<a class="navbar-rss hidden-xs hidden-sm">
+					<svg height="22" viewbox="880 78 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+						<defs>
+							<rect height="22" id="a" rx="2" width="22"></rect>
+							<mask fill="#fff" height="22" id="b" width="22" x="0" y="0">
+								<use href></use>
+							</mask>
+						</defs>
+						<g fill="none" fill-rule="evenodd" transform="translate(880 78)">
+							<g fill="#FFF">
+								<path d="M7.74 16c0 1.022-.836 1.85-1.87 1.85C4.84 17.85 4 17.02 4 16s.838-1.846 1.87-1.846c1.034 0 1.87.827 1.87 1.847"></path>
+								<path d="M4 8.694v2.555s6.28.17 6.474 6.6h2.765S13.563 9.114 4 8.692"></path>
+								<path d="M4 4v2.603s10.216-.16 11.354 11.246h2.57S18.217 4.77 4 4"></path>
+							</g>
+							<use href mask="url(#b)" stroke="#FFF" stroke-width="2"></use>
+						</g>
+					</svg>
+				</a>
+				<a class="gradient-navbar visible-xs visible-sm"></a>
+				<ul class="navbar-menu">
+					<li class="navbar-menu-item dropdown inL_250792">
+						<a class="navbar-menu-toggle lt2">अब</a>
+					</li>
+					<li class="navbar-menu-item">
+						<a class="lt3">दुनिया में</a>
+					</li>
+					<li class="navbar-menu-item">
+						<a class="lt4">तथ्य</a>
+					</li>
+					<li class="navbar-menu-item">
+						<a class="lt5">राष्ट्र</a>
+					</li>
+					<li class="navbar-menu-item">
+						<a class="lt7">नीति</a>
+					</li>
+					<li class="navbar-menu-item">
+						<a class="lt8">वर्तमान</a>
+					</li>
+				</ul>
+				<div class="navbar-right">
+					<a class="button-text button-text-stream lt9">टीवी प्रसारण</a>
+					<a class="button-text button-text-mylife lt10">मेरा जीवन</a>
+					<a><span class="button-user-container"><span class="button button-user"><span class="button-user-container"><span class="button-user-container"></span></span></span></span></a>
+					<a><span class="button-notification-container"></span></a>
+					<a><span class="button button-search"></span></a>
+				</div>
+				<div class="search-container"></div>
+			</div>
+		</nav>
+		<div class="notification-message-list-container"></div>
+		<div class="title-bar title-bar_post">
+			<div class="title-bar__container">
+				<div class="social-share" data-action="Big buttons Float">
+					<div class="social-share__icons">
+						<a class="social-share__icon social-share__icon_small social-share__icon_tw js-tw"><svg height="15" viewbox="0 0 18 15" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M0 12.616a10.657 10.657 0 0 0 5.661 1.615c6.793 0 10.507-5.476 10.507-10.223 0-.156-.003-.31-.01-.464A7.38 7.38 0 0 0 18 1.684a7.461 7.461 0 0 1-2.12.564A3.621 3.621 0 0 0 17.503.262c-.713.411-1.505.71-2.345.871A3.739 3.739 0 0 0 12.462 0C10.422 0 8.77 1.607 8.77 3.59c0 .283.033.556.096.82A10.578 10.578 0 0 1 1.254.656a3.506 3.506 0 0 0-.5 1.807c0 1.246.65 2.346 1.642 2.99a3.731 3.731 0 0 1-1.673-.45v.046c0 1.74 1.274 3.193 2.962 3.523a3.756 3.756 0 0 1-.972.126c-.239 0-.47-.022-.695-.064.469 1.428 1.833 2.467 3.449 2.494A7.531 7.531 0 0 1 .88 12.665c-.298 0-.591-.014-.881-.049" fill="#FFF" fill-rule="evenodd"></path></svg></a>
+						<a class="social-share__icon social-share__icon_small social-share__icon_fb js-fb"><svg height="16" viewbox="0 0 8 16" width="8" xmlns="http://www.w3.org/2000/svg"><path d="M5.937 2.752h1.891V.01L5.223 0c-2.893 0-3.55 2.047-3.55 3.353v1.829H0v2.824h1.673V16H5.19V8.006h2.375l.308-2.824H5.19v-1.66c0-.624.44-.77.747-.77" fill="#FFF" fill-rule="evenodd"></path></svg></a>
+						<a class="social-share__icon social-share__icon_small social-share__icon_gp js-gp"><svg height="14" viewbox="0 0 21 14" width="21" xmlns="http://www.w3.org/2000/svg"><path d="M6.816.006C8.5-.071 10.08.646 11.37 1.655a24.11 24.11 0 0 1-1.728 1.754C8.091 2.36 5.89 2.06 4.34 3.272c-2.217 1.503-2.317 5.05-.186 6.668 2.073 1.843 5.991.928 6.564-1.895-1.298-.02-2.6 0-3.899-.042-.003-.76-.006-1.518-.003-2.278 2.17-.006 4.341-.01 6.516.007.13 1.786-.11 3.688-1.23 5.164-1.696 2.34-5.1 3.022-7.756 2.02C1.681 11.921-.207 9.161.018 6.348.077 2.905 3.305-.11 6.816.006zm10.375 3.812h1.893c.004.634.007 1.27.014 1.903.632.007 1.27.007 1.902.013v1.893l-1.902.016c-.007.636-.01 1.27-.014 1.902h-1.896c-.006-.632-.006-1.266-.013-1.899l-1.902-.02V5.735c.633-.006 1.266-.01 1.902-.013.004-.636.01-1.27.016-1.903z" fill="#FFF" fill-rule="evenodd"></path></svg></a>
+						<a class="social-share__icon social-share__icon_small social-share__icon_viber js-viber"><svg height="21" viewbox="0 0 21 21" width="21" xmlns="http://www.w3.org/2000/svg"><path d="M18.639 14.904c-.628-.506-1.3-.96-1.96-1.423-1.318-.926-2.523-.997-3.506.491-.552.836-1.325.873-2.133.506-2.228-1.01-3.949-2.567-4.956-4.831-.446-1.002-.44-1.9.603-2.609.552-.375 1.108-.818 1.064-1.637C7.693 4.334 5.1.765 4.077.39 3.653.233 3.23.243 2.8.388.4 1.195-.594 3.169.358 5.507c2.84 6.974 7.84 11.829 14.721 14.792.392.169.828.236 1.049.297 1.567.015 3.402-1.494 3.932-2.992.51-1.441-.568-2.013-1.421-2.7zm-7.716-13.8c-.417-.064-1.052.026-1.02-.525.046-.817.8-.513 1.165-.565 4.833.163 8.994 4.587 8.935 9.359-.006.468.162 1.162-.536 1.149-.668-.013-.493-.717-.553-1.185-.64-5.067-2.96-7.46-7.991-8.233zm.984 1.39c3.104.372 5.64 3.065 5.615 6.024-.047.35.157.95-.409 1.036-.764.116-.615-.583-.69-1.033-.511-3.082-1.593-4.213-4.7-4.907-.458-.102-1.17-.03-1.052-.736.113-.671.752-.443 1.236-.385zm.285 2.419c1.377-.034 2.992 1.616 2.969 3.044.014.39-.028.802-.49.857-.333.04-.552-.24-.586-.585-.128-1.272-.798-2.023-2.073-2.228-.382-.061-.757-.184-.579-.7.12-.345.436-.38.76-.388z" fill="#FFF" fill-rule="evenodd"></path></svg></a>
+						<a class="social-share__icon social-share__icon_small social-share__icon_whatsapp js-whatsapp"><svg height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg"><path d="M7.926 5.587c-.213-.51-.375-.53-.698-.543a6.234 6.234 0 0 0-.369-.013c-.42 0-.86.123-1.125.395-.323.33-1.125 1.1-1.125 2.677 0 1.578 1.15 3.104 1.306 3.318.162.213 2.244 3.498 5.476 4.837 2.528 1.048 3.278.95 3.853.828.84-.181 1.894-.802 2.16-1.552.265-.75.265-1.39.187-1.527-.078-.135-.291-.213-.614-.375-.323-.161-1.894-.937-2.192-1.04-.29-.11-.569-.072-.788.239-.31.433-.614.873-.86 1.138-.194.207-.511.233-.776.123-.356-.149-1.351-.498-2.58-1.591-.95-.847-1.596-1.901-1.784-2.218-.187-.323-.02-.511.13-.685.161-.201.316-.343.478-.53.161-.188.252-.285.355-.505.11-.214.033-.434-.045-.595-.078-.162-.724-1.74-.99-2.38zM10.996 0C4.934 0 0 4.934 0 11c0 2.405.776 4.636 2.095 6.447L.724 21.534l4.228-1.351A10.913 10.913 0 0 0 11.003 22C17.067 22 22 17.066 22 11S17.067 0 11.003 0h-.006z" fill="#FFF" fill-rule="evenodd"></path></svg></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="post-page">
+			<div class="post-page-container">
+				<article class="post-page-item">
+					<div class="c-main">
+						<header class="o-jumbotron c-entry c-entry-lg c-entry-inverse u-pa-0">
+							<div class="c-port js-port-back">
+								<div class="c-port-back">
+									<div class="u-pos-r">
+										<div class="c-post-img-wrap has-pseudo-bg"><img alt="" class="c-post-img u-blur" height="530" src="img/main_picture_01.jpg" width="1340"></div>
+										<div class="c-post-meta">
+											<img alt="" class="c-post-img-sleaze main-picture" height="210" src="img/Bezymjannyj-11.jpg" width="315">
+											<p class="img-asign">दुनिया से समाचार</p>
+											<h2 class="p-name c-post-title u-uppercase js-si-title dec">
+												<span class="black">मुख्य समाचार:</span><br>
+                        भारत में हर दिन हजारों पुरुष शक्ति और प्रोस्टेटाइटिस की समस्याओं से पीड़ित होते हैं। उन्हें कौन बचाएगा?<br>
+											</h2>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="o-wrap u-pr-0">
+								<div class="o-jumbotron c-bar c-post-info u-mr-0 js-switcher-wrap">
+									<div class="c-bar-left">
+										<div class="c-bar-unit">
+											<div class="p-category c-post-tag u-text-lady u-uppercase lt12">
+												दुनिया से समाचार
+											</div>
+										</div>
+										<div class="c-bar-unit">
+											<ul class="c-post-stats">
+												<li class="js-comments-count"></li>
+												<li>62126</li>
+											</ul>
+										</div>
+									</div>
+									<div class="c-bar-right">
+										<div class="c-bar-unit">
+											<ul class="c-social-list pull-left c-switcher-box js-switcher-box">
+												<li>
+													<a><span class="text-hide lt13">Facebook</span> <svg class="i-svg i-fb" height="24" viewbox="0 0 24 24" width="24"><path d="M21.8,0H2.2C1,0,0,1,0,2.2v19.6C0,23,1,24,2.2,24H12V14H9v-3h3V8c0-2.5,1-4,4-4h3v3h-1.3 C16.8,7,16,7.8,16,8.7V11h4l-0.5,3H16v10h5.8c1.2,0,2.2-1,2.2-2.2V2.2C24,1,23,0,21.8,0z"></path></svg> <span class="o-btn-text">23255235</span></a>
+												</li>
+												<li>
+													<a><span class="text-hide lt14">Twitter</span> <svg class="i-svg i-tw" height="25" viewbox="0 0 13.4 11.7" width="25" xmlns="http://www.w3.org/2000/svg"><path d="M13.4,1.4c-0.5,0.2-1,0.4-1.6,0.5c0.6-0.4,1-0.9,1.2-1.6c-0.5,0.3-1.1,0.6-1.7,0.7C10.8,0.4,10.1,0,9.3,0 C7.8,0,6.5,1.3,6.5,3c0,0.2,0,0.5,0.1,0.7C4.3,3.5,2.3,2.3,0.9,0.5C0.7,1,0.6,1.5,0.6,2c0,1,0.5,1.9,1.2,2.5c-0.5,0-0.9-0.1-1.2-0.4 c0,0,0,0,0,0c0,1.4,0.9,2.6,2.2,2.9C2.5,7.1,2.3,7.1,2,7.1c-0.2,0-0.3,0-0.5-0.1c0.3,1.2,1.4,2,2.6,2.1C3.1,9.9,2,10.4,0.7,10.4 c-0.2,0-0.4,0-0.7,0c1.2,0.8,2.7,1.3,4.2,1.3c5,0,7.8-4.5,7.8-8.4c0-0.1,0-0.3,0-0.4C12.5,2.5,13,2,13.4,1.4z"></path></svg> <span class="o-btn-text">736971</span></a>
+												</li>
+												<li></li>
+												<li>
+													<a class="js-fb-message"><span class="text-hide lt16">Messenger</span> <svg class="i-svg i-msgr" height="17" viewbox="0 0 17 17" width="17" xmlns="http://www.w3.org/2000/svg"><path d="M8.5.002A8.338 8.338 0 0 0 0 8.147a7.989 7.989 0 0 0 2.833 6.062v2.437a.355.355 0 0 0 .542.3l1.974-1.233a8.77 8.77 0 0 0 3.151.579A8.338 8.338 0 0 0 17 8.147 8.338 8.338 0 0 0 8.5.002zm5.565 6.27l-4.25 4.25a.354.354 0 0 1-.481.018L7.04 8.575l-3.683 2.008a.355.355 0 0 1-.42-.561l4.25-4.25a.354.354 0 0 1 .481-.018l2.291 1.964 3.684-2.007a.354.354 0 0 1 .453.099.353.353 0 0 1-.031.462z"></path></svg> <span class="o-btn-text">8910698</span></a>
+												</li>
+												<li>
+													<a class="js-viber-share"><span class="text-hide lt17">Viber</span> <svg class="i-svg i-vb" height="17" viewbox="0 0 15 17" width="15" xmlns="http://www.w3.org/2000/svg"><path d="M8.691 1.051a6.717 6.717 0 0 1 2.298.711c.744.379 1.22.737 1.849 1.391.591.619.917 1.084 1.265 1.809.483 1.014.758 2.216.805 3.541.018.452.005.553-.094.683-.188.249-.602.209-.744-.074-.044-.091-.057-.173-.072-.532a9.695 9.695 0 0 0-.136-1.344c-.292-1.68-1.066-3.024-2.3-3.988-1.029-.805-2.092-1.197-3.485-1.281-.471-.03-.553-.05-.66-.133-.198-.163-.208-.545-.017-.723.116-.111.198-.126.602-.112.211.007.521.031.689.052zm-5.666.278c.087.031.221.106.297.155.471.327 1.783 2.075 2.211 2.948.246.496.328.866.251 1.141-.079.293-.211.449-.798.942-.236.2-.457.402-.491.457a1.253 1.253 0 0 0-.161.586c.002.428.27 1.211.622 1.813.272.466.761 1.067 1.244 1.526.568.541 1.069.912 1.634 1.203.726.376 1.17.475 1.494.316.082-.037.169-.091.196-.115.025-.021.216-.266.424-.533.402-.526.493-.613.768-.711.35-.123.707-.091 1.066.102.273.147.868.531 1.252.811.506.369 1.587 1.288 1.733 1.47.258.332.302.755.129 1.222-.184.493-.898 1.418-1.396 1.813-.451.355-.771.493-1.192.514-.347.018-.491-.013-.935-.203-3.48-1.498-6.258-3.727-8.465-6.792C1.756 8.393.878 6.733.278 5.009-.071 4.005-.088 3.567.199 3.056c.124-.217.652-.754 1.036-1.054.64-.497.935-.68 1.17-.731a1.35 1.35 0 0 1 .62.058zm5.837 1.595c1.505.229 2.67.958 3.433 2.14.429.666.697 1.449.789 2.289.032.306.032.867-.003.96a.57.57 0 0 1-.225.255.537.537 0 0 1-.417-.016c-.191-.101-.247-.26-.247-.694 0-.67-.167-1.373-.454-1.921a3.873 3.873 0 0 0-1.383-1.501c-.499-.311-1.235-.539-1.907-.595-.242-.021-.376-.074-.468-.185a.485.485 0 0 1-.037-.583c.129-.208.327-.242.919-.149zm.528 1.95c.489.107.863.301 1.183.614.411.406.637.897.736 1.601.067.459.04.641-.116.789a.462.462 0 0 1-.58.012c-.119-.091-.157-.19-.184-.456a2.556 2.556 0 0 0-.193-.83c-.219-.488-.603-.741-1.252-.825-.305-.039-.397-.074-.496-.197a.494.494 0 0 1 .139-.723c.094-.048.134-.053.342-.04.129.009.32.03.421.055z"></path></svg> <span class="o-btn-text">6381448416</span></a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</header>
+						<div class="post-page__columns">
+							<div class="post-page__columns-left sticky-parent">
+								<ul class="tags tags_left">
+									<li class="tags-item">
+										<a class="lt18">समाचार</a>
+									</li>
+									<li class="tags-item">
+										<a class="lt19">ऊपर</a>
+									</li>
+									<li class="tags-item">
+										<a class="lt20">भारत</a>
+									</li>
+									<li class="tags-item">
+										<a class="lt21">अंतिम</a>
+									</li>
+								</ul>
+								<div class="read-next">
+									<h3 class="read-next__title lt22">और पढ़ें</h3>
+									<div class="read-next__container read-next__container_visible">
+										<div class="read-next-item">
+											<a><div class="read-next-item__labels read-next-item__labels_top"></div></a>
+											<a class="read-next-item__title lt23">पेंशनरों के लिए कोई अधिमानी कार्यक्रम क्यों नहीं है?</a>
+										</div>
+										<div class="read-next-item">
+											<a><div class="read-next-item__labels read-next-item__labels_top"></div></a>
+											<a class="read-next-item__title lt24">स्वास्थ्य देखभाल प्रणाली में परिवर्तन</a>
+										</div>
+										<div class="read-next-item">
+											<a><div class="read-next-item__labels read-next-item__labels_top"></div></a>
+											<a class="read-next-item__title lt25">नई संसद में कौन चुना जाएगा?</a>
+										</div>
+										<div class="read-next-item">
+											<a><div class="read-next-item__labels read-next-item__labels_top"></div></a>
+											<a class="read-next-item__title lt26">रोम में खोला, उधार पर प्रतिशत क्या कम करें</a>
+										</div>
+										<div class="read-next-item">
+											<a><div class="read-next-item__labels read-next-item__labels_top"></div></a>
+											<a class="read-next-item__title lt27">प्रसिद्ध चैंपियन ने खेलकुद बंद कर दिया है</a>
+										</div>
+										<div class="read-next-item">
+											<a><div class="read-next-item__labels read-next-item__labels_top"></div></a>
+											<a class="read-next-item__title lt28">देश भर में लगभग 50,000 वर्ग मीटर में बनाया जाएगा।</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="post-page__columns-right">
+								<header class="post-page-header">
+									<ul class="tags">
+										<li class="tags-item">
+											<a class="lt29">समाचार</a>
+										</li>
+										<li class="tags-item">
+											<a class="lt30">ताज़ा</a>
+										</li>
+										<li class="tags-item">
+											<a class="lt31">ऊपर</a>
+										</li>
+										<li class="tags-item">
+											<a class="lt32">टाक्सिन</a>
+										</li>
+									</ul>
+									<div class="post-page-tools-footer">
+										<div class="social-share social-share_post social-share_column-xs" data-action="Big buttons under title">
+											<div class="social-share__counter-xs js-sharing-counter visible-xs">
+												24
+											</div>
+										</div>
+									</div>
+								</header>
+								<div class="post-page-content">
+									<div class="post-page-content-main">
+										<div class="contentBox">
+											<h2><span><span class="darkred">प्रोस्टेट सफाई विधि के प्रकाशन के बाद जो लाखों लोगों की जान बचा सकता भारत से महाश्चर्य को गिरफ्तार किया गया था</span></span></h2>
+											<hr class="hr">
+											<h3><span class="lt34">भारतीय छात्र को शक्ति बहाल करने की नई विधि की खोज के लिए अंतरराष्ट्रीय पुरस्कार मिला।</span></h3>
+											<hr class="hr">
+											<img alt="" class="img img-responsive content-img" src="img/Bezymjannyj-11.jpg">
+											<p><span><b>पहाल ही में संपन्न यूरोलॉजिस्ट के विश्व सम्मेलन में एक अविश्वसनीय सनसनी फैल गई: भारत के एक छात्र ने अपने द्वारा विकसित एक उत्पाद प्रस्तुत किया जो उत्तेजक और सर्जिकल हस्तक्षेप के बिना शक्ति में सुधार कर सकता है। उनकी रिपोर्ट ने सचमुच दर्शकों को झकझोर कर रख दिया। दुनिया के सर्वश्रेष्ठ मूत्र रोग विशेषज्ञों ने युवक को पांच मिनट तक खड़े होकर तालियां बजाईं (!!!)।</b></span></p>
+											<p><span><i>खोज पर किसी का ध्यान नहीं गया: एक निजी निवेशक ने पहले ही हमारे हमवतन द्वारा संश्लेषित फार्मूले के आधार पर एक उत्पाद का उत्पादन शुरू कर दिया है।</i></span></p>
+											<h3><span class="red">भारत में विकसित पोटेंसी के नवीनतम उत्पाद के बारे में, और आप इसे 50% छूट के साथ कैसे प्राप्त कर सकते हैं - हमारे लेख में।</span></h3>
+											<p><span><b>पत्रकार: ऋषि, आप दुनिया के दस सबसे प्रतिभाशाली मेडिकल छात्रों में से एक हैं। आपने पुरुषों के स्वास्थ्य का अध्ययन करने का निर्णय क्यों लिया?</b></span></p>
+											<p><span>मैं इस बारे में सार्वजनिक रूप से बात करने में थोड़ा शर्मिंदा हूं, लेकिन प्रेरणा पूरी तरह से व्यक्तिगत है। मेरे पिता को शक्ति संबंधी समस्या थी। डॉक्टर के पास जाने की बात तो दूर उन्हें इस बारे में मेरी मां से भी बात करने में शर्म आती थी। जब मेरी माँ ने उसका समर्थन करने की कोशिश की, तो वह उन पर चिल्लाने लगा, क्योंकि वह अपनी समस्या के किसी भी उल्लेख या संकेत से डरता था। इससे घर का माहौल असहनीय हो गया। मेरे पिता ने चिल्लाहट और हिंसा से "पुरुषत्व की कमी" की भरपाई करने की कोशिश की। और फिर स्थिति और भी खराब हो गई: यौन गतिविधि की कमी के कारण, मेरे पिता को श्रोणि क्षेत्र में रक्त का ठहराव होने लगा। इससे प्रोस्टेटाइटिस और फिर एडेनोमा, एक प्रोस्टेट ट्यूमर हो गया।</span></p>
+											<p><span>नतीजा यह हुआ कि मेरे पिता पूरी तरह से नपुंसक हो गये, जिसके कारण वे गंभीर अवसाद में आ गये. लेकिन सबसे महत्वपूर्ण बात यह है कि उनका शारीरिक स्वास्थ्य खराब हो गया। आख़िरकार, पुरुषों के लिए हर चीज़ शक्ति से शुरू होती है। जैसे ही यह खराब हो जाता है, पुरुष का शरीर मुख्य पुरुष हार्मोन टेस्टोस्टेरोन का उत्पादन बंद कर देता है। वस्तुतः मनुष्य के शरीर में सब कुछ इस पर निर्भर करता है: प्रतिरक्षा, सामान्य स्वास्थ्य, मांसपेशियों की ताकत, हड्डियों की ताकत, यहां तक ​​कि मूड भी। मेरे पिता स्वयं की एक पीली छाया में बदल गए।</span></p>
+											<p><span>इसीलिए मैंने उनकी और उन लोगों की मदद करने का फैसला किया, जो खुद को उसी स्थिति में पाते थे, भले ही इसके लिए मुझे कुछ भी कीमत चुकानी पड़े। मैंने अपना सारा समय पुरुषों में घटती शक्ति के कारणों पर शोध करने में समर्पित कर दिया। और जब मैं इस विषय का अध्ययन कर रहा था, तो मुझे एक और भयावह तथ्य का पता चला।</b></span>
+											<p><span>पिछले तीन वर्षों में, मैंने खुद को इस विषय में पूरी तरह से डुबो दिया है। मैंने अपने शोध के परिणामों को अपनी डिप्लोमा थीसिस में प्रकाशित किया। मुझे ऐसा लग रहा था कि मैं कुछ नया लेकर आया हूं। लेकिन मैं कल्पना नहीं कर सकता था कि यह विभिन्न संरचनाओं में रुचि जगाएगा।</span></p>
+											<p><span><b>पत्रकार: आपका प्रदर्शन सार्वजनिक होने के तुरंत बाद आपको गिरफ्तार कर लिया गया था, है ना?</b></span></p>
+											<p><span>हाँ, सम्मेलन में आपके भाषण के 3 दिन बाद। सौभाग्य से, मेरे शिक्षकों ने कानून प्रवर्तन एजेंसियों के साथ इस स्थिति को सुलझाने में मदद की।</span></p>
+											<p><span><b>पत्रकार: समस्या क्या थी?</b></span></p>
+											<p><span>एक फार्मास्युटिकल कॉर्पोरेशन के बेईमान मालिकों को, जिनका मैं नाम नहीं लेना चाहता, डर था कि वे मेरे फॉर्मूले का पेटेंट नहीं खरीद पाएंगे। इसलिए उन्होंने गंदा काम करने का फैसला किया: उन्होंने यह बहाना बनाकर मुझ पर पुलिस लगा दी कि मैंने यह फॉर्मूला चुराया है। लेकिन हर कोई जानता है कि ये सच नहीं है. और जब मैंने पुलिस को वर्षों के काम के दौरान बनाए गए अपने नोट्स दिखाए तो मैं इसे आसानी से साबित करने में सक्षम हो गया।</span></p>
+											<p><span>मैं समझ गया कि ये लोग मुझे क्यों डुबाना चाहते थे। शक्तिवर्धक औषधियाँ बाज़ार के सबसे लाभदायक क्षेत्रों में से एक हैं। छात्रों के आविष्कारों के कारण कोई भी लाखों या अरबों का नुकसान नहीं करना चाहता। इसलिए मुझे कई समस्याओं का सामना करना पड़ा. जाहिर है, उन्हें उम्मीद थी कि मैं इस बारे में कुछ भी नहीं समझ पाऊंगा और मेरा बचाव करने वाला कोई नहीं होगा। लेकिन जैसे ही वकीलों ने कार्रवाई की, यह स्पष्ट हो गया कि मैं दोषी नहीं हूं। मुझे रिहा कर दिया गया और मामला बंद कर दिया गया.</span></p>
+											<p><span><b>पत्रकार: तो क्या कोई और समस्या नहीं थी?</b></span></p>
+											<p><span>कोई और समस्या नहीं है, लेकिन सूत्र को पकड़ने की कोशिश की गई है।जैसे ही मेरी चिकित्सा पद्धति के बारे में प्रकाशन हुए, विचार खरीदने के प्रस्ताव तुरंत आने लगे। कोई फ्रांसीसी पहले आवेदन करने वाले थे, जो 120 हजार यूरो की पेशकश करते थे। अंतिम एक अमेरिकी फार्मास्युटिकल होल्डिंग थी, वे इसे $ 5 मिलियन में खरीदना चाहते थे। अब मैंने अपना फोन नंबर बदल दिया है और सोशल नेटवर्क पर नहीं जाता, क्योंकि हर दिन, सभी संचार चैनलों के माध्यम से, लोग खरीदने के लिए संबोधन करते हैं।</span></p>
+											<p><span><b>पत्रकार: हालाँकि, जहाँ तक हमें पते लगाते हैं, आपने फार्मूला अभी तक नहीं बेचा है?</b></span></p>
+											<p><span>मैं ऐसा नहीं कर सका. अगर मैं यूरोप में किसी फार्मास्युटिकल कंपनी को पेटेंट बेचता हूं, तो वे मेरे फॉर्मूले के आधार पर उत्पाद को उसके उत्पादन लागत से 300 गुना कम कीमत पर बेचेंगे। मैं जवान हूं, लेकिन बेवकूफ नहीं हूं. मैं जानता हूं कि यह बाजार कैसे काम करता है। मैंने इसलिए काम नहीं किया कि यूरोप का कोई अमीर आदमी अपना बटुआ और भी भर सके। भारत में कौन 3,000 हजार डॉलर का पैकेज खरीद सकता है? कुछ! और अंग्रेज, फ्रांसीसी और जर्मन बिल्कुल यही चाहते थे: मेरे उत्पाद को अपने अमीर ग्राहकों के लिए निजी यूरोपीय क्लीनिकों में छोटे बैचों में बेचना।</span></p>
+											<p><span>जब मुझे एक नए औषधि के विकास में भाग लेने के लिए एक निजी नींव से एक प्रस्ताव मिला, तो मैं तुरंत सहमत हो गया। हमने सबसे अच्छे विशेषज्ञों के साथ मिलकर काम किया। यह अद्भुत था। आवश्यक चरण पूरे हो चुके हैं और Libidex बिक्री पर चला गया।</span></p>
+											<p><span><b><span class="darkred">निजी नींव से धन के औषधि का समन्वय मनीष कपूर द्वारा किया गया, जो पुरुषों के स्वास्थ्य के विशेषज्ञ है। हमने उससे नए टूल के बारे में कुछ और, और विशेष रूप से इसे वितरित करने की योजना पूना हमें बताईये।</span></b></span></p>
+											<img alt="" class="img img-responsive content-img mt10" src="img/foto.jpg">
+											<p><span><b>पत्रकार: ऋषि खान के विकास के बारे में आप क्या सोचते हैं? क्या यह वास्तव में शक्ति को बेहतर बनाने में मदद करता है?</b></span></p>
+											<p><span>ऋषि खान का विचार नपुंसकता से निपटने का एक बिल्कुल नया तरीका है। निर्माण की प्रक्रिया में, उन्होंने उन घटकों पर भरोसा किया जो स्टेम कोशिकाओं के काम को सक्रिय करते हैं। पुनर्स्थापना की इस पद्धति का लाभ यह है कि स्टेम कोशिकाओं में परिवर्तन करने की एक अद्वितीय क्षमता होती है। यह संपत्ति उत्पाद के लिए बहुत मूल्यवान है।</span></p>
+											<p><span><b>पत्रकार: नपुंसकता इतनी खतरनाक क्यों है?</b></span></p>
+											<p><span>शक्ति की समस्याएँ हमेशा पूरे शरीर में स्वास्थ्य समस्याओं का कारण बनती हैं। पुरुषों में विकसित होने वाली अन्य समस्याओं के विपरीत, नपुंसकता धीरे-धीरे पुरुषों में श्रोणि में रक्त के ठहराव, मूत्रमार्ग के ठहराव और, परिणामस्वरूप, कैंसर के ट्यूमर के विकास की ओर ले जाती है। मानव शरीर धीरे-धीरे मर जाता है। एक टाइम बम की तरह जो तुरंत नहीं फटता, लेकिन 100% विस्फोट निश्चित है।</span></p>
+											<p><span>भारत में, हर साल हजारों पुरुष घातक ट्यूमर के कारण होने वाली जटिलताओं से मर जाते हैं, और इसका कारण उनकी कम क्षमता है। और इतनी ही संख्या में लोगों को लगातार विभिन्न नशीले उत्पाद लेने पड़ते हैं। 98% मामलों में, नपुंसकता प्रोस्टेट एडेनोमा की ओर ले जाती है। इसके अलावा, कम क्षमता प्रारंभिक अवस्था में भी जीवन की गुणवत्ता को काफी खराब कर देती है।</span></p>
+											<p><span>और सबसे बुरी बात तो यह है कि इस समस्या के समाधान के लिए अब तक कोई कारगर उपाय नहीं मिल पाया है. पुरुषों को उत्तेजक पदार्थों का उपयोग करने की पेशकश की गई, जो केवल अल्पकालिक प्रभाव देते हैं।</span></p>
+											<p><span><b>पत्रकार: तो आज जो उत्पाद फार्मेसियों में बेचे जाते हैं वे मदद नहीं करते?</b></span></p>
+											<p><span>जैसा कि मैंने पहले ही कहा है, हाल तक केवल जेनेरिक वैसोडिलेटर्स का उपयोग किया जाता था, जो केवल नपुंसकता के लक्षणों को कम करते हैं, लेकिन इसके कारण को नहीं। समय के साथ, उन्होंने अपनी प्रभावशीलता खो दी और, उन्हें फिर से काम करने के लिए, खुराक बढ़ाना आवश्यक हो गया। लेकिन कुछ लोगों ने ज़ोर से कहा कि उनकी कार्रवाई के कारण, वे एक साथ हृदय प्रणाली पर भारी दबाव डालते हैं, जिससे दिल का दौरा भी पड़ सकता है।</span></p>
+											<p><span><b>पत्रकार: क्या ऋषि खान द्वारा विकसित उत्पाद वास्तव में मदद करता है? इसे क्या कहते हैं?</b></span></p>
+											<p><span>बिल्कुल। Libidex कैप्सूल ऋषि खान के फॉर्मूले के आधार पर बनाए जाते हैं। उत्पाद चरणों में काम करता है. सबसे पहले, यह पेल्विक अंगों में रक्त परिसंचरण को सामान्य करता है। लिंग में रक्त के प्रवाह को बेहतर बनाने के लिए यह आवश्यक है। रक्त परिसंचरण स्थापित होने के बाद, सूत्र के सक्रिय घटक टेस्टोस्टेरोन उत्पादन को उत्तेजित करना शुरू कर देते हैं। कामेच्छा में सुधार होता है. साथ ही, संभोग की अवधि बढ़ जाती है और लिंग की संवेदनशीलता बढ़ जाती है। निर्माता दुष्प्रभावों को कम करने में कामयाब रहा। उन्होंने केवल प्राकृतिक सामग्रियों का उपयोग करके इसे हासिल किया। और, सबसे महत्वपूर्ण बात, Libidex के कोर्स के बाद, एक आदमी कम से कम 10 वर्षों तक शक्ति संबंधी समस्याओं से परेशान नहीं होगा।</span></p>
+											<p><span>इसके अलावा, ऋषि और मैंने वास्तव में कोशिश की। हमारा औषधि रासायनिक सूत्रों का एक असामान्य मिश्रण है, यह पौधे की उत्पत्ति के प्राकृतिक अवयवों का एक अनूठा सुपरकोन्सेट्रेट है। इस प्रकार, यह न केवल प्रभावी है बल्कि, ज्यादातर मामलों में, जब तक आप थेरेपी गुजर रहे हैं, तब तक सुरक्षित है।</span></p>
+											<p><span>इस प्रकार, Libidex स्तंभन दोष को कम करने के लिए पहले इस्तेमाल की जाने वाली किसी भी चीज़ की तुलना में कई गुना अधिक प्रभावी है। कोई भी जेनरिक ऐसे परिणाम नहीं देता।</span></p>
+											<p><span><b>पत्रकार: क्या फ़ार्मेसीज़ आपके औषधि बेचेंगे? और कितना, वैसे, यह कीमत क्या होगी?</b></span></p>
+											<p><span>हमें फार्मेसियों के साथ काम नहीं करता था। जैसे ही यह स्पष्ट हो गया कि हमारे पास एक प्रभावी औषधि पैदा हुआ,हम सभी मोर्चों पर फार्मासिस्टों द्वारा हमला किया गया है। उन्होंने और ऋषि ने शुरू में अपने सूत्र को बेचने की पेशकश की, लेकिन बाद में इसे जारी करने के लिए बिल्कुल भी नहीं। इसके विपरीत, उत्पादन में औषधि की शुरुआत को रोकने के लिए।</span></p>
+											<p><span>शक्ति बहाली उत्पाद फार्मास्युटिकल बाजार के सबसे लाभदायक क्षेत्रों में से एक हैं। दवा कंपनियाँ और फार्मेसियाँ नपुंसकता से पीड़ित पुरुषों से हर साल अरबों कमाती हैं। बेशक, उनके लिए वास्तव में प्रभावी उत्पाद बेचना लाभदायक नहीं है। आख़िरकार, तो वे अपनी नियमित आय खो देंगे। यदि कोई व्यक्ति शक्ति बहाल कर सकता है, तो उसे लगातार नीली गोलियों के दूसरे पैक के लिए आने की आवश्यकता नहीं है। इसलिए, बाजार शार्क ने Libidex को फार्मेसी अलमारियों तक पहुंचने से रोकने के लिए हर संभव प्रयास किया।</span></p>
+											<p><span><b>पत्रकार: और अगर Libidex फार्मेसी में नहीं है, तो मैं इसे कहां पा सकता हूं?</b></span></p>
+											<p><span>हमने Libidex का सीधा वितरण स्थापित करने और वाणिज्यिक फार्मेसियों के रूप में एक मध्यवर्ती लिंक के बिना करने का फैसला किया। हमने कई विकल्पों पर चर्चा की और सबसे प्रभावी एक पर बसे: ग्राहक ने आधिकारिक ज़ेनोप्रोस्ट सक्रियवेबसाइट पर एक अनुरोध छोड़ देता है, जिसके बाद वे उससे संपर्क करते हैं, सलाह देते हैं और औषधि भेजते हैं। लगभग सभी के पास अब इंटरनेट है। यहां तक ​​कि अगर किसी व्यक्ति के पास कंप्यूटर नहीं है, तो अक्सर उसके पास इंटरनेट एक्सेस के साथ एक टेलीफोन होता है। हर कोई जो <span class="date-19" data-format="dd monthFull yyyy">16&nbsp;मई&nbsp;2024</span> (समावेशी) से पहले एक अनुरोध छोड़ चुका है, 50% छूट से Libidex पैकेज प्राप्त करेंगे।</span></p>
+											<p>यह निजी धन के साथ हमारी संयुक्त शेयर है औषधि पर लोगों का ध्यान आकर्षित करने के लिये। हमें उम्मीद है कि "मुंह का शब्द" प्रभाव काम करेगा और लोग अपने दोस्तों को इसकी सिफारिश करेंगे।</p>
+											<p><span><b>पत्रकार: और उन लोगों के लिए औषधि की कीमत कितनी होगी, जिनके लिये इसे दो बार सस्ते में ऑर्डर करने का समय नहीं है?</b></span></p>
+											<p><span>पैकिंग के लिये उत्पादन की कीमत लगभग 13,000 रुपये है। हम निजी निधियों के प्रबंधन के साथ एक समझौते पर आने में कामयाब रहे - वे कम अवधि के लिए लागत का आधा हिस्सा भरपाई करेंगे। सौभाग्य से, "उपर में" वे इस तरह के औषधि को देश की पूरी आबादी के लिए उपलब्ध कराने के महत्व को समझते हैं। बदले में, हमने विदेशों में फॉर्मूला न बेचने और उत्पाद का निर्यात न करने का संकल्प लिया, केवल भारत में इसे वितरित किया।</span></p>
+											<p class="mb15"><span>हम आपको याद दिलाते हैं कि शेयर <span class="date-0" data-format="dd monthFull yyyy">04&nbsp;जून&nbsp;2024</span> तक वैध है (समावेशी) <span class="ib"><span class="x_price_current">2490</span> <span class="x_currency">inr</span></span>.</span></p>
+											<div id="scroll"></div>
+											<div class="features-wrapper" id="form">
+												<div class="spin-wrapper">
+													<p><b>होशियार!</b><br>
+													हमारे पोर्टल पर आप अतिरिक्त छूट जीत सकते हैं! आपकी सफलता आज़माएं - "स्पिन" बटन पर क्लिक करें। यदि आप भाग्यशाली हैं, तो आप औषधि को सस्ता भी ऑर्डर कर सकते हैं। सौभाग्य!</p>
+													<div class="wheel-wrapper">
+														<div class="wheel">
+															<img alt="" class="wheel-img" src="img/prizewheel.png">
+															<div class="wheel-cursor" id="div1">
+																<img alt="" src="img/wheel-cursor.png"> <span class="cursor-text lt48" onclick="spin();">स्पिन</span>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="order_block">
+													<div class="tcenter">
+														<h3 class="tcenter">अगले पाठक को छूट से पहले अपना ऑर्डर देने की जल्दी करें, आपका अनूठा प्रस्ताव समाप्त हो गया:<br></h3>
+														<div id="clock">
+															<span class="minutes">09</span> : <span class="seconds">17</span>
+														</div>
+													</div>
+													<div class="order_block-wrap">
+														<div class="prod_img_wrapper">
+															<img alt="" class="prod_img" src="img/product.png" width="300">
+															<div class="priceс">
+																<span class="discountс">छूट से!</span>
+																<s><span class="js_old_price price_old"><span class="ib"><span class="x_price_previous">4980</span><span class="x_currency">inr</span></span></span></s> <b class="new_price js_new_price price_main"><span class="ib"><span class="x_price_current">2490</span><span class="x_currency">inr</span></span></b>
+															</div>
+														</div>
+														<form action="lemon.php" class="x_order_form order_form" method="post">
+															
+															<label class="data_label" for="name">पूरा नाम:</label>
+															<div class="input-group tooltip-hide">
+																<input class="wheel_input" id="name" name="name" placeholder="फ्रांसेस्को रॉस्सी" required type="text">
+															</div>
+															<label class="data_label" for="phone">मोबाइल फोन:</label>
+															<div class="input-group tooltip-hide">
+																<input class="wheel_input" id="phone" name="phone" placeholder="+91 XXXX-XXX-XXX" required type="tel">
+															</div>
+															<button class="main-link" type="submit">50% छूट से Libidex ऑर्डर करें!</button>
+														</form>
+													</div>
+												</div>
+												<div class="tcenter">
+													<h2 class="time_remains_title">कृपया ध्यान रखें कि विशेष प्रस्ताव तक मान्य है <span class="date-0">04.06.2024</span> (समावेशी)</h2><br>
+												</div>
+												<div class="comments-refreshing-wrapper">
+													<p class="comments-refreshing-title">अंतिम टिप्पणी</p>
+													<div class="comments-refreshing">
+														<i>टिप्पणियाँ अपडेट की गईं</i><br>
+														<img alt="" src="img/autoCommentsRefreshing.gif">
+													</div>
+													<div class="comments-item comments-newly-showed">
+														<div class="comment-avatar"><img alt="" src="img/autoCommentsAva.jpg"></div>
+														<div class="comment-text">
+															<span class="comment-username">जॉर्ज</span> मैंने अपना आदेश दे दिया है। छूट के साथ! मुझे उम्मीद है कि सब कुछ अच्छा होगा
+														</div>
+														<a class="comment-action"><span class="like">पसंद है</span> <span class="reply">उत्तर</span><span class="like-count">0</span><span class="comment-date">अब</span></a>
+													</div>
+													<div class="comments-item">
+														<div class="comment-avatar"><img alt="" src="img/autoCommentsAva.jpg"></div>
+														<div class="comment-text">
+															<span class="comment-username">इरिका</span> चिंता न करें! यह मेरी न पहली है जब मैं Libidex ऑर्डर करता हूं,सभी आदेश समस्याओं के बिना आते हैं।
+														</div>
+														<a class="comment-action"><span class="like">पसंद है</span> <span class="reply">उत्तर</span><span class="like-count">0</span><span class="comment-date">अब</span></a>
+													</div>
+													<div class="comments-item">
+														<div class="comment-avatar"><img alt="" src="img/autoCommentsAva.jpg"></div>
+														<div class="comment-text">
+															<span class="comment-username">एमिलिया</span> आज Libidex पाया। मैं इसका इस्तेमाल करूंगा, इससे मुझे मदद मिलनी चाहिए।
+														</div>
+														<a class="comment-action"><span class="like">पसंद है</span> <span class="reply">उत्तर</span><span class="like-count">0</span><span class="comment-date">अब</span></a>
+													</div>
+													<div class="comments-item">
+														<div class="comment-avatar"><img alt="" src="img/autoCommentsAva.jpg"></div>
+														<div class="comment-text">
+															<span class="comment-username">अस्सुंता</span> एक छूट के साथ एक आदेश देने के अवसर के लिए धन्यवाद! मैंने भी Libidex का आदेश दिया था, लेकिन इसकी कीमत अधिक है। मैं क्या कह सकता हूं, यह महंगा है, लेकिन मैं इस तरह की दक्षता के लिए पैसा खर्च करने के लिये खेद नहीं है।
+														</div>
+														<a class="comment-action"><span class="like">पसंद है</span> <span class="reply">उत्तर</span><span class="like-count">0</span><span class="comment-date">अब</span></a>
+													</div>
+													<div class="comments-item">
+														<div class="comment-avatar"><img alt="" src="img/autoCommentsAva.jpg"></div>
+														<div class="comment-text">
+															<span class="comment-username">ब्रिजेट</span> लेख दिलचस्प है, मैं कोशिश करूँगा। मैंने तुरंत कई आदेश दिए, मुझे आशा है कि यह मदद करेगा।
+														</div>
+														<a class="comment-action"><span class="like">पसंद है</span> <span class="reply">उत्तर</span><span class="like-count">0</span><span class="comment-date">अब</span></a>
+													</div>
+													<div class="comments-item">
+														<div class="comment-avatar"><img alt="" src="img/autoCommentsAva.jpg"></div>
+														<div class="comment-text">
+															<span class="comment-username">पीटर</span> बेशक यह मदद करता है! मुझे अब इसकी आवश्यकता नहीं है, लेकिन मैं बहुत से ऐसे लोगों को जानता हूं जो इसका उपयोग करते हैं
+														</div>
+														<a class="comment-action"><span class="like">पसंद है</span> <span class="reply">उत्तर</span><span class="like-count">0</span><span class="comment-date">अब</span></a>
+													</div>
+													<div class="comments-item">
+														<div class="comment-avatar"><img alt="" src="img/autoCommentsAva.jpg"></div>
+														<div class="comment-text">
+															<span class="comment-username">Libidex उत्पादक से</span> चेतावनी! Libidex जल्द ही फार्मेसियों में बिक्री पर जाने के कारण उपलब्ध दवा की मात्रा सीमित है, यह सभी के लिए पर्याप्त नहीं हो सकता है।आज हम 5,000 पैक बेच चुके हैं।
+														</div>
+														<a class="comment-action"><span class="like">पसंद है</span> <span class="reply">उत्तर</span><span class="like-count">0</span><span class="comment-date">अब</span></a>
+													</div>
+													<div class="comments-item">
+														<div class="comment-avatar"><img alt="" src="img/autoCommentsAva.jpg"></div>
+														<div class="comment-text">
+															<span class="comment-username">लियोनार्डो</span> मैंने कई पैक ऑर्डर किए हैं, जल्द ही यह केवल फार्मेसियों में बिक्री पर होगा। और यह मलूम है कि इसकी कीमत दो बार होगी।
+														</div>
+														<a class="comment-action"><span class="like">पसंद है</span> <span class="reply">उत्तर</span><span class="like-count">0</span><span class="comment-date">अब</span></a>
+													</div>
+													<div class="comments-item">
+														<div class="comment-avatar"><img alt="" src="img/autoCommentsAva.jpg"></div>
+														<div class="comment-text">
+															<span class="comment-username">जेओर्गिना</span> मेरा एक दोस्त सिर्फ जापान से वापस आया है और वे ही Libidex पर बेच रहे हैं। पैक $ 70 है और लोग इसे खरीद रहे हैं! अतुल्य!
+														</div>
+														<a class="comment-action"><span class="like">पसंद है</span> <span class="reply">उत्तर</span><span class="like-count">0</span><span class="comment-date">अब</span></a>
+													</div>
+													<div class="comments-item">
+														<div class="comment-avatar"><img alt="" src="img/autoCommentsAva.jpg"></div>
+														<div class="comment-text">
+															<span class="comment-username">एलेस्सिया</span> खुशी से, ठीक समय में. धन्यवाद, मैं इस उत्पाद के बारे में पहले नहीं पता था। मैंने इंटरनेट पर समीक्षा पढ़ी, सभी लोग खुश हैं, बस नकली न खरीदिये, यहां ऑर्डर करना बेहतर है।
+														</div>
+														<a class="comment-action"><span class="like">पसंद है</span> <span class="reply">उत्तर</span><span class="like-count">0</span><span class="comment-date">अब</span></a>
+													</div>
+												</div>
+											</div>
+											<a class="img-btn"><img alt="" src="img/button.png"></a>
+											<hr class="hr">
+										</div>
+										<div class="post-page-content-tags">
+											<ul class="tags">
+												<li class="tags-item">
+													<a class="lt72">समाचार</a>
+												</li>
+												<li class="tags-item">
+													<a class="lt73">वर्तमान</a>
+												</li>
+												<li class="tags-item">
+													<a class="lt74">दुनिया में</a>
+												</li>
+												<li class="tags-item">
+													<a class="lt75">ऊपर</a>
+												</li>
+												<li class="tags-item">
+													<a class="lt76">अंतिम</a>
+												</li>
+											</ul>
+										</div>
+										<div class="comments">
+											<div class="comments-btn-block">
+												<div class="comments__btn-up js-btn-up hidden">
+													<svg height="12" viewbox="0 0 18 12" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M9 0L0 9l2.1 2.1L9 4.2l6.9 6.9L18 9" fill="#8AA1AF" fill-rule="evenodd"></path></svg>
+												</div>
+											</div>
+											<div class="comments-flex comments-flex_top">
+												<div class="comments__count js-comments-count-custom">
+													टिप्पणियाँ: 14
+												</div>
+												<div class="comments-choose">
+													<a class="comments-choose__btn"><span class="comments-choose__btn-name comments-choose__btn-name_close">लोकप्रिय</span></a>
+													<ul class="comments-list">
+														<li class="inL_907309">
+															<div class="comments-border comments-border_choose"></div>
+														</li>
+														<li class="comments-list__item comments-list__item_chosen">लोकप्रिय</li>
+														<li class="comments-list__item lt80">अब</li>
+													</ul>
+												</div>
+												<div class="comments-btns">
+													<a class="comments-toggle js-toggle-comments">सभी टिप्पणियाँ दिखाएँ</a>
+													<div class="comments-choose">
+														<a class="comments-choose__btn"><span class="comments-choose__btn-name comments-choose__btn-name_close">लोकप्रिय</span></a>
+														<ul class="comments-list">
+															<li class="inL_331892">
+																<div class="comments-list__border"></div>
+															</li>
+															<li class="comments-list__item comments-list__item_chosen" data-sort="upvotes_count">लोकप्रिय</li>
+															<li class="comments-list__item">अब</li>
+														</ul>
+													</div>
+												</div>
+											</div>
+											<div class="comments-toggle-md">
+												<a class="comments-toggle js-toggle-comments">सभी टिप्पणियाँ दिखाएँ</a>
+											</div>
+											<div class="comments-chat">
+												<div class="comments-chat-container">
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/21.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name man lt86">
+																		जियोर्जियो लामा
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																<p class="lt87">यदि आप इन्हें नियमित रूप से लेते हैं तो कैप्सूल अपना काम करते हैं। वे अच्छी मदद करते हैं. विज्ञापित फार्मेसी दवाओं की तुलना में कीमत सस्ती है। और सबसे महत्वपूर्ण बात, परिणाम पाठ्यक्रम के बाद दिखाई देता है!</p>
+																<img alt="" src="img/live-1.jpg" style="margin-top: 10px; margin-bottom: 10px; width: 100%; max-width: 400px"></div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt88">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">12</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/22.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name man lt89">
+																		अरमांडो गिउलिआनी
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																	<p class="lt90">मैंने एक दोस्त की सलाह पर Libidex का ऑर्डर दिया, इसे तुरंत एक कोर्स के लिए ले गया, उन्होंने मुझे प्रमोशन पर बहुत महत्वपूर्ण छूट दी। मैंने कोर्स लगभग पूरा कर लिया है, लेकिन सुधार पहले से ही ध्यान देने योग्य हैं: इरेक्शन सामान्य है, नियमित सेक्स बहाल हो गया है। वास्तव में एक अच्छा उत्पाद, यह मदद करता है।</p>
+																</div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt91">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">10</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/1.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name woman lt92">
+																		ग्रैस विल्लानि
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																	<p class="lt93">यह काम करता है! सेक्स वास्तव में लंबे समय तक चला और संवेदनाएं बिल्कुल अलग थीं। मुझे अपने पति के लिए इसे ऑर्डर करने का कोई अफसोस नहीं है।</p>
+																</div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt94">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">20</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/23.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name man lt95">
+																		मिशेल फ्रांजोनी
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																	<p class="lt96">तो, भाइयों! इन कैप्सूलों की खास बात यह है कि इनमें कोई रसायन नहीं है। मैं एक प्रशिक्षक हूं और मुझे पता है कि रसायन शास्त्र कैसे शक्ति को खत्म कर सकता है। इतना कि आप बाद में इसमें सुधार नहीं कर सकते. Libidex ने इसे स्वयं पर परीक्षण किया। 4 महीने के बाद परिणाम: इरेक्शन पहले की तुलना में 3 गुना अधिक समय तक रहता है, मैं लंबे समय तक और अधिक बार सेक्स कर सकता हूं, इच्छा एक किशोर की तरह है।</p>
+																</div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt97">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">8</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/2.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name woman lt98">
+																		फेडेरिका लावा
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																	<p class="lt99">मैंने इसे अपने पति के लिए ऑर्डर किया क्योंकि किसी अन्य उत्पाद से उन्हें मदद नहीं मिली। उसका लिंग अभी भी ढीला पड़ा हुआ था. केवल Libidex ने मदद की। 5 महीने के नियमित उपयोग के बाद, वह 20 साल छोटा लग रहा था: हम कभी बिस्तर से नहीं उठते!</p>
+																</div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt100">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">9</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/24.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name man lt101">
+																		रेनाटो सेरेनी
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																<p class="lt102">मैं समीक्षाओं से सहमत हूँ! पहला परिणाम 2-3 महीने बाद आता है। चार महीने के बाद - आप एक पोर्न अभिनेता, उत्कृष्ट इरेक्शन और उज्ज्वल लंबे सेक्स की तरह महसूस करते हैं। मैंने कभी महिलाओं को ऐसी स्थिति में नहीं लाया, और अब - यह आसान है! मैंने भविष्य में उपयोग के लिए ऑर्डर दिया है, मैं सभी को इसकी अनुशंसा करता हूं।</p>
+																<img alt="" src="img/live-2.jpg" style="margin-top: 10px; margin-bottom: 10px; width: 100%; max-width: 400px"></div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt103">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">13</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/25.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name man lt104">
+																		पिएत्रो वेर्डे
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																	<p class="lt105">मैंने भी आदेश दिया! मैं कल पोस्ट ऑफिस में लाऊँगा</p>
+																</div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt106">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">20</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/3.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name man lt107">
+																		सर्जियो विल्लानी
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																	<p class="lt108">उत्पाद काम करता है, मुख्य बात नियमित रूप से कैप्सूल लेना नहीं भूलना है। मेरी पत्नी बदलावों से खुश है, मैंने उसे इतना खुश कभी नहीं देखा। हम गाली भी कम देने लगे. और मैं स्वयं इसका प्रभाव महसूस करता हूं: मेरा इरेक्शन वास्तव में बहुत कठिन है, मेरी कामेच्छा पागल हो गई है, कामोत्तेजना से संवेदनाएं बस लौकिक हो गई हैं।</p>
+																</div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt109">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">7</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/4.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name woman lt110">
+																		एंटोनिना उर्सो
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																	<p class="lt111">निजी क्लीनिक में वे बहुत पैसा लेते हैं, वे क्या करना मैं नहीं जैनता हूँ। कोई विकल्प नहीं हैं। Libidex पर कार्रवाई के लिए धन्यवाद!</p>
+																</div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt112">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">11</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/5.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name woman lt113">
+																		कोग्दा हन्ना
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																	<p class="lt114">मैंने समीक्षाएँ पढ़ीं और समझा कि क्या लेना चाहिये! मैं एक आदेश देने की कोशिश करती हूँ</p>
+																</div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt115">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">18</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/6.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name woman lt116">
+																		सारा सेन्सी
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																	<p class="lt117">मैंने एक आदेश दिया, कुछ भी जटिल नहीं है। 3 दिनों के बाद मैंने पोस्ट ऑफिस में पार्सल के लिए चुकाया और पाया। बहुत बहुत धन्यवाद, दोस्त!</p>
+																</div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt118">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">16</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+													<div class="comment-bubble">
+														<div class="comments-message comments-message_grey">
+															<div class="comments-user">
+																<div class="comments-avatar comments-avatar_grey"><img alt="" src="img/26.jpg"></div>
+															</div>
+															<div class="comments-field comments-field_grey js-bubble">
+																<header class="comments-flex">
+																	<div class="comments-flex__name man lt119">
+																		फेडेरिको क्लाउडियो
+																	</div>
+																</header>
+																<div class="comments-field__txt">
+																	<p class="lt120">मेरे डॉक्टर ने स्तंभन दोष के लिए Libidex की सिफारिश की। मुझे नहीं पता कि 46 साल की उम्र में मैं इन कैप्सूलों के बिना क्या करता। कोई दुष्प्रभाव नहीं - मेरा इरेक्शन पहले से भी अधिक मजबूत हो गया है!</p>
+																</div>
+																<div class="comments-field__image js-image-block">
+																	<div class="comments-field__image-load hidden">
+																		<div class="spinner-inner">
+																			<svg class="spinner" viewbox="25 25 50 50"><circle class="spinner-path" cx="50" cy="50" fill="none" r="20" stroke-miterlimit="10" stroke-width="3"></circle></svg>
+																		</div>
+																	</div>
+																</div>
+																<footer class="comments-flex comments-flex_footer">
+																	<a class="comments-flex__answer js-answer-btn lt121">उत्तर</a> <a class="comments-like js-like-btn"><svg class="comments-like__icon" height="13" viewbox="0 0 13 13" width="13" xmlns="http://www.w3.org/2000/svg"><path d="M1.576 4.875H0V13h1.576c.435 0 .788-.364.788-.813v-6.5c0-.448-.353-.812-.788-.812zM12.606 6.5l-.788 5.688c-.086.532-.354.812-.788.812H6.303c-.788 0-1.576-.813-2.364-.813H3.15V6.5c.032-.506.336-.95.787-1.154C5.373 4.7 6.3 3.24 6.302 1.626V.812c0-.45.353-.813.788-.813h.79c.434 0 .787.364.787.813v4.875h3.15c.214-.015.423.066.574.222.152.155.23.37.216.59z" fill="#4B87B8" fill-rule="evenodd"></path></svg> <span class="comments-like__count">15</span></a>
+																</footer>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="comments-form comments-form_unauthorized">
+												<div class="comments-avatar comments-avatar_form hidden-xs hidden-sm comments-avatar_unauthorized"></div>
+												<header class="comments-form-header comments-form-header_unauthorized">
+													<div class="comments-avatar comments-avatar_unauthorized"></div>
+												</header>
+												<a class="comments-form__unauthorized js-show-auth lt122 btn-scroll">टिप्पणी करने के लिए लॉग इन करें</a>
+											</div>
+											<a class="inL_106118"><img alt="" class="inL_692031" src="img/button.png"></a>
+											<footer class="footer">
+												<span>
+													&copy;
+													<script>
+														document.write((new Date).getFullYear());
+													</script>
+													कॉपीराइट। सर्वाधिकार सुरक्षित।
+												</span><br>
+												<a href="pp.html" target="_blank">गोपनीयता नीति</a>
+											</footer>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</article>
+			</div>
+		</div>
+	</div>
+	<div class="spin-result-wrapper">
+		<div class="pop-up-window">
+			<div class="close-popup"></div><span class="pop-up-heading">बधाई हो!</span>
+			<p class="pop-up-text">आप 50% छूट के साथ Libidex ऑर्डर कर सकते हैं!</p>
+			<a class="pop-up-button">ОК</a>
+		</div>
+	</div>
+
+	<script src="js/index.js"></script> 
+	<script type="text/javascript" src="js/tooltips.js"></script>
+<!-- Скрипт домонетизации -->
+<script src="https://cdn.smrtdirect.com/back/script.js"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        window.showcaseOnBack("https://adsssite.com/showcase?webmaster_id=f8037ed1-8627-4bf7-963f-57c1d320f781&bunch_id=59966953-aa39-4ad5-8d2b-37ced7d6aece&dmType=white&utm_campaign={utmCampaign}&utm_source={utmSource}&utm_medium={utmMedium}&utm_content={utmContent}&utm_term={utmTerm}"); // ссылка на витрину
+    });
+</script></body>
+</html>
